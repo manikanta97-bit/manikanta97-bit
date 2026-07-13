@@ -1,118 +1,156 @@
-<h1 align="center">Hi 👋, I'm Manikanta K</h1>
-<h3 align="center">Computer Science (Data Science) Student from India </h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,25:00DBDE,50:FC00FF,75:00DBDE,100:6C63FF&text=Manikanta%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(Data%20Science)%20Student&descAlignY=58"/>
+
+</div>
+
+<h1 align="center">
+Hi 👋 I'm Manikanta K
+</h1>
 
 <p align="center">
-  <a href="https://github.com/manikanta97-bit">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Web+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Things+🚀" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Web+Developer;AI+Enthusiast;Building+Projects+Every+Day+🚀;Future+Software+Engineer"/>
+
 </p>
 
 ---
 
-## About Me
+<img align="right" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 B.E. Computer Science & Engineering (Data Science)
+## 💫 About Me
 
-💻 Passionate about Programming, Web Development and AI.
+🎓 B.E Computer Science (Data Science)
 
-🌱 Currently learning
+💻 Python Developer
+
+🌐 Web Developer
+
+🤖 AI Enthusiast
+
+📚 Currently learning
 
 - Python
-- C Programming
+- C
 - HTML
 - CSS
 - JavaScript
-- Data Structures & Algorithms
-
-🚀 My Goal
-
-Become a Software Engineer and build impactful applications.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
+- DSA
 - React
-- SQL
 - Machine Learning
 
----
+🎯 Goal
 
-## 🚀 Featured Projects
-
-🔹 Python Programs
-
-🔹 Portfolio Website
-
-🔹 Web Development Projects
-
-🔹 College Projects
-
-🔹 AI Projects
+Become a Software Engineer who builds useful products.
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 GitHub Stats
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=manikanta97-bit&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta97-bit&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 📈 Most Used Languages
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/manikanta-k-b82588381/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manikanta97-bit&theme=tokyonight&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta97-bit&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+✨ Portfolio Website
+
+🤖 AI Projects
+
+🌐 Web Development Projects
+
+🐍 Python Projects
+
+📚 DSA in Python
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:kk6914717@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 💭 Quote
 
-> **"Code. Learn. Build. Repeat."** 🚀
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=manikanta97-bit&label=Profile%20Views&color=0e75b6&style=flat)
+### ⭐ Thanks for visiting my profile ⭐
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,50:00DBDE,100:FC00FF"/>
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+</div>
