@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 B.E. Computer Science & Engineering (Data Science)
 
@@ -44,7 +44,6 @@ Become a Software Engineer and build impactful applications.
 
 - Data Structures & Algorithms
 - React
-- Node.js
 - SQL
 - Machine Learning
 
@@ -90,11 +89,11 @@ Become a Software Engineer and build impactful applications.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/manikanta-k-b82588381/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kk6914717@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
