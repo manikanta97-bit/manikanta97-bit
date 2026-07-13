@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta K</h1>
-<h3 align="center">Computer Science (Data Science) Student from India 🇮🇳</h3>
+<h3 align="center">Computer Science (Data Science) Student from India </h3>
 
 <p align="center">
   <a href="https://github.com/manikanta97-bit">
