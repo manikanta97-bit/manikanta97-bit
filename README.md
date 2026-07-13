@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi I'm Manikanta K
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MANIKANTA%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
 
-### Computer Science (Data Science) Student
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Full+Stack+Learner;AI+%7C+Machine+Learning+Enthusiast;Building+Awesome+Projects+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;AI+Enthusiast;Always+Learning+New+Things+🚀"/>
-
-![](https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet)
+<p>
+<img src="https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/manikanta97-bit?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/manikanta97-bit?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
@@ -14,107 +16,87 @@
 
 # About Me
 
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 ```yaml
-Name: Manikanta K
-Education: B.E Computer Science (Data Science)
-Country: India
-
-Currently Learning:
-  - Python
-  - JavaScript
-  - Machine Learning
-  - Data Structures & Algorithms
-
-Goal:
-  Become a Software Engineer
+Name      : Manikanta K
+Education : B.E Computer Science (Data Science)
+Country   : India 🇮🇳
+Learning  : Python, DSA, React, AI
+Passion   : Building Useful Projects
 ```
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux&perline=6"/>
 
 </p>
 
----
 
-# 📊 GitHub Statistics
+# Contribution Streak
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=manikanta97-bit&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# Activity Graph
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manikanta97-bit&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta97-bit&theme=tokyo-night"/>
 
-</p>
+</div>
 
----
+# Current Focus
 
-# 🎯 Current Focus
-
-- 🚀 Building Real World Projects
-- 🌐 Full Stack Web Development
-- 📚 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 📈 Open Source Contributions
+```text
+💻 Building Web Applications
+📚 Mastering DSA
+🤖 Learning AI & Machine Learning
+🌐 Full Stack Development
+🚀 Open Source Contributions
+```
 
 ---
 
 # Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/manikanta-k-b82588381">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://linkedin.com/in/manikanta-k-b82588381">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:kk6914717@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+> **"Dream Big. Build Bigger."**
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile ⭐
-
-> **Dream • Learn • Build • Repeat**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
