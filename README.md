@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MANIKANTA%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Full+Stack+Learner;AI+%7C+Machine+Learning+Enthusiast;Building+Awesome+Projects+🚀"/>
+
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet"/>
