@@ -1,128 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MANIKANTA%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
+# Hi I'm Manikanta K
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Full+Stack+Learner;AI+%7C+Machine+Learning+Enthusiast;Building+Awesome+Projects+🚀"/>
+### Computer Science (Data Science) Student
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/manikanta97-bit?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/manikanta97-bit?style=for-the-badge&logo=github"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;AI+Enthusiast;Always+Learning+New+Things+🚀"/>
+
+![](https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+# About Me
 
 ```yaml
-Name      : Manikanta K
-Education : B.E Computer Science (Data Science)
-Country   : India 🇮🇳
-Learning  : Python, DSA, React, AI
-Goal      : Software Engineer
-Passion   : Building Useful Projects
+Name: Manikanta K
+Education: B.E Computer Science (Data Science)
+Country: India
+
+Currently Learning:
+  - Python
+  - JavaScript
+  - Machine Learning
+  - Data Structures & Algorithms
+
+Goal:
+  Become a Software Engineer
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=manikanta97-bit&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta97-bit&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=manikanta97-bit&theme=tokyonight&no-frame=true&column=4"/>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Current Focus
+# 📈 Activity Graph
 
-```text
-💻 Building Web Applications
-📚 Mastering DSA
-🤖 Learning AI & Machine Learning
-🌐 Full Stack Development
-🚀 Open Source Contributions
-```
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta97-bit&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🌍 Connect With Me
+# 🎯 Current Focus
 
-<div align="center">
+- 🚀 Building Real World Projects
+- 🌐 Full Stack Web Development
+- 📚 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📈 Open Source Contributions
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manikanta-k-b82588381">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="mailto:kk6914717@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Dream Big. Build Bigger."**
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+### ⭐ Thanks for Visiting My Profile ⭐
+
+> **Dream • Learn • Build • Repeat**
 
 </div>
