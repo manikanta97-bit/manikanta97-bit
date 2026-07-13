@@ -89,7 +89,7 @@ Passion   : Building Useful Projects
 
 <div align="center">
 
-> **"Dream Big. Build Bigger."**
+> **"Winning isn't about being the strongest. It's about making the right move."**
 
 </div>
 
