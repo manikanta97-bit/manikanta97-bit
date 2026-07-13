@@ -1,47 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,25:00DBDE,50:FC00FF,75:00DBDE,100:6C63FF&text=Manikanta%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(Data%20Science)%20Student&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MANIKANTA%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Full+Stack+Learner;AI+%7C+Machine+Learning+Enthusiast;Building+Awesome+Projects+🚀"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=manikanta97-bit&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/manikanta97-bit?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/manikanta97-bit?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
-<h1 align="center">
-Hi 👋 I'm Manikanta K
-</h1>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Computer+Science+(Data+Science)+Student;Python+Developer;Web+Developer;AI+Enthusiast;Building+Projects+Every+Day+🚀;Future+Software+Engineer"/>
-
-</p>
-
 ---
 
-<img align="right" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# 💫 About Me
 
-## 💫 About Me
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 B.E Computer Science (Data Science)
-
-💻 Python Developer
-
-🌐 Web Developer
-
-🤖 AI Enthusiast
-
-📚 Currently learning
-
-- Python
-- C
-- HTML
-- CSS
-- JavaScript
-- DSA
-- React
-- Machine Learning
-
-🎯 Goal
-
-Become a Software Engineer who builds useful products.
+```yaml
+Name      : Manikanta K
+Education : B.E Computer Science (Data Science)
+Country   : India 🇮🇳
+Learning  : Python, DSA, React, AI
+Goal      : Software Engineer
+Passion   : Building Useful Projects
+```
 
 ---
 
@@ -49,108 +33,96 @@ Become a Software Engineer who builds useful products.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mysql,git,github,vscode,linux&perline=6"/>
 
 </p>
 
 ---
 
-# 🚀 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manikanta97-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta97-bit&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta97-bit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manikanta97-bit&theme=tokyonight&column=7&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=manikanta97-bit&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta97-bit&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manikanta97-bit&theme=tokyonight&no-frame=true&column=4"/>
 
-</p>
-
----
-
-# 🌟 Featured Projects
-
-✨ Portfolio Website
-
-🤖 AI Projects
-
-🌐 Web Development Projects
-
-🐍 Python Projects
-
-📚 DSA in Python
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Current Focus
 
-<p align="center">
+```text
+💻 Building Web Applications
+📚 Mastering DSA
+🤖 Learning AI & Machine Learning
+🌐 Full Stack Development
+🚀 Open Source Contributions
+```
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💭 Quote
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> **"Dream Big. Build Bigger."**
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,50:00DBDE,100:FC00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
