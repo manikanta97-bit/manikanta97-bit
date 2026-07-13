@@ -89,7 +89,7 @@ Passion   : Building Useful Projects
 
 <div align="center">
 
-> **"Winning isn't about being the strongest. It's about making the right move."**
+ **"Winning isn't about being the strongest. It's about making the right move."**
 
 </div>
 
