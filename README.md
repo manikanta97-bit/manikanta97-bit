@@ -21,6 +21,7 @@
 ```yaml
 Name      : Manikanta K
 Education : B.E Computer Science (Data Science)
+City      : Tumakuru, Karnataka
 Country   : India
 Learning  : Python, DSA, React, AI
 Passion   : Building Useful Projects
